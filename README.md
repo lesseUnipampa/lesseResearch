@@ -24,3 +24,6 @@ Webpage: [http://lesse.com.br/](http://lesse.com.br/)
 
 ![LESSE](https://raw.githubusercontent.com/lesseUnipampa/lesseResearch/master/logolesse.png)
 
+![Software Engineering](https://raw.githubusercontent.com/lesseUnipampa/lesseResearch/master/logoes.png)
+
+![Unipampa](https://raw.githubusercontent.com/lesseUnipampa/lesseResearch/master/logounipampa.png)
