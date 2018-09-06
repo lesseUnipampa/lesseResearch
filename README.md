@@ -26,6 +26,7 @@ A Project Managament Software Tool created to give support to Project Management
 Webpage: [http://lesse.com.br/](http://lesse.com.br/)
 
 <img src="https://raw.githubusercontent.com/lesseUnipampa/lesseResearch/master/logolesse.png" align="right" />
+
 ![LESSE](https://raw.githubusercontent.com/lesseUnipampa/lesseResearch/master/logolesse.png)
 
 ![Software Engineering](https://raw.githubusercontent.com/lesseUnipampa/lesseResearch/master/logoes.png)
