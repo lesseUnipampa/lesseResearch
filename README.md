@@ -1,4 +1,6 @@
-#  Laboratory of Empirical Studies in Software Engineering (LESSE)
+<img src="http://lesse.com.br/assets/images/logos/logo.png" align="right" />
+
+##  Laboratory of Empirical Studies in Software Engineering (LESSE) 
 
 **Created in 2018, the Laboratory of Empirical Studies in Software Engineering (LESSE) of UNIPAMPA has as main objective to support the teaching, research and dissemination of knowledge in the area of Software Engineering in Empirical Studies.**
 
