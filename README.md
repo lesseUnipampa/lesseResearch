@@ -29,6 +29,10 @@ A Project Managament Software Tool created to give support to Project Management
 
 The WebAtlas projecte intends to create a web-based platafomr for teaching of SPL concepts through the use of a feature diagram modeling tool. Access at [WebAtlas](https://github.com/Ferfortlima/AtlasFMTool).
 
+## Thoth 
+
+The Thoth tool main objective is to give support to systematic mapping studies and systematic literature reviews. Thoth repository can be accessed at [Thoth](https://github.com/ProjetoESE/Thoth)
+
 Webpage: [http://lesse.com.br/](http://lesse.com.br/)
 
 ![LESSE](https://raw.githubusercontent.com/lesseUnipampa/lesseResearch/master/logolesse.png)
