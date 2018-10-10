@@ -1,5 +1,3 @@
-<img src="http://lesse.com.br/assets/images/logos/logo.png" align="right" />
-
 ##  Laboratory of Empirical Studies in Software Engineering (LESSE) 
 
 **Created in 2018, the Laboratory of Empirical Studies in Software Engineering (LESSE) of UNIPAMPA has as main objective to support the teaching, research and dissemination of knowledge in the area of Software Engineering in Empirical Studies.**
@@ -31,7 +29,7 @@ The WebAtlas projecte intends to create a web-based platafomr for teaching of SP
 
 ## Thoth 
 
-The Thoth tool main objective is to give support to systematic mapping studies and systematic literature reviews. Thoth repository can be accessed at [Thoth](https://github.com/ProjetoESE/Thoth)
+The Thoth tool main objective is to give support to systematic mapping studies and systematic literature reviews. Thoth repository can be accessed at [Thoth](https://github.com/ProjetoESE/Thoth).
 
 Webpage: [http://lesse.com.br/](http://lesse.com.br/)
 
