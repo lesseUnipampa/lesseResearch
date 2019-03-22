@@ -25,7 +25,7 @@ A Project Managament Software Tool created to give support to Project Management
 
 ## WebAtlas
 
-The WebAtlas projecte intends to create a web-based platafomr for teaching of SPL concepts through the use of a feature diagram modeling tool. Access at [WebAtlas](https://github.com/Ferfortlima/AtlasFMTool).
+The WebAtlas projecte intends to create a web-based platafomr for teaching of SPL concepts through the use of a feature diagram modeling tool. Access at [WebAtlas](https://github.com/lucascorrea122/Atlas/).
 
 ## Thoth 
 
