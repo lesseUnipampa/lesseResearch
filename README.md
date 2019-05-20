@@ -31,6 +31,11 @@ The WebAtlas projecte intends to create a web-based platafomr for teaching of SP
 
 The Thoth tool main objective is to give support to systematic mapping studies and systematic literature reviews. Thoth repository can be accessed at [Thoth](https://github.com/ProjetoESE/Thoth).
 
+## StringImprover
+
+The StringImprover app is used for automatic improving search strings for systematic literature reviews. The repository can be accessed at [StringImprover](https://github.com/Hateki/stringImprover).
+
+
 Webpage: [http://lesse.com.br/](http://lesse.com.br/)
 
 ![LESSE](https://raw.githubusercontent.com/lesseUnipampa/lesseResearch/master/logolesse.png)
